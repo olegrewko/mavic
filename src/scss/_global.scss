@@ -6,7 +6,23 @@ html {
 *::before {
   box-sizing: inherit;
 }
+// .wrapper {
 
+// 	display: flex;
+// 	flex-direction: column;
+
+// 	min-height: 100%;
+//   max-width: 1920px;
+
+// }
+
+// .main {
+// 	flex: 1 1 auto;
+// }
+// .footer {
+// 	flex: 0 0 auto;
+
+// }
 
 body {
   font-family: 'Fira Sans', sans-serif;
@@ -31,7 +47,7 @@ img {
   max-width: 100%;
 }
 .container {
-  max-width: 1920px;
+  max-width: 1038px;
   margin: 0 auto;
   position: relative;
 }
